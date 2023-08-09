@@ -1,7 +1,6 @@
 # Temperature Converter App
 
- Temperature Converter App is a Android application that allows users to convert temperatures between Celsius and Fahrenheit. This
- app provides a user-friendly interface for entering temperatures and selecting the desired conversion unit.
+Temperature Converter App is a Android application that endure conversion of the measurement units of the temperature recorded in a particular unit. This application allows user to convert temperatures between Celsius and Kelvin. This app provides a user-friendly interface for entering temperatures and selecting the desired conversion unit.
  
 ## Features
 
